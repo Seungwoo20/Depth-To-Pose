@@ -1,5 +1,5 @@
 # Depth-To-Pose
-To study for my side project
+Practice to improve my research capability
 
 # Steps
 1. Understand Depth Perception
