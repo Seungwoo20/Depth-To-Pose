@@ -1,2 +1,7 @@
 # Depth-To-Pose
-My goal : To study for my side project
+To study for my side project
+
+# Steps
+1. Understand Depth Perception
+2. Understand Pose Estimation
+3. Convert Depth to Pose
